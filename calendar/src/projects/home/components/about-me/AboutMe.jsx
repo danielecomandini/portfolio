@@ -1,4 +1,4 @@
-import { Card, Typography } from "@mui/material";
+import { Card } from "@mui/material";
 import Row from "../../../../UI/materials/grid/Row";
 import Column from "../../../../UI/materials/grid/Column";
 
